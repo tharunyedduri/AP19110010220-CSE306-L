@@ -1,0 +1,6 @@
+
+    identifiers    : ['l1', 'l2', 'i', 'count']
+    relational Ops : ['<=', '<=', '==', '==']
+    header         : ['#include<stdio.h>', '#include<conio.h>']
+    datatypes      : ['int']
+    keywords       : ['main', 'int', 'while', 'while', 'if', 'if']
